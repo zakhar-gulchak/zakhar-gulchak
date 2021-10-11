@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My CV
-https://zaar88.github.io/
+CV https://zaar88.github.io/
+Blog https://zaar88.dev/
 
 <!--
 **zaar88/zaar88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
