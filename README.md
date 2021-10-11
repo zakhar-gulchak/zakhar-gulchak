@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My CV
+https://zaar88.github.io/
+
 <!--
 **zaar88/zaar88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
