@@ -31,7 +31,7 @@ Curiousing in cloud technologies (AWS), doing some stuff with NodeJS (Nest).
 
 
 
-If you are recriuter you can find my CV [online](https://zaar88.github.io/)
+### If you are recriuter you can find my CV [online](https://zaar88.github.io/)
 
 <!--
 - 🌱 I’m currently learning ...
