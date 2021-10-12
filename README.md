@@ -7,7 +7,7 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
 FullStack developer. 33 y.o.
-Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vynils at home parties with friends.
+Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vinyls at home parties with friends.
 Practice yoga over 10 years (physically, and mentally).
 
 Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
