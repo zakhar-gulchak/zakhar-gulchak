@@ -14,9 +14,9 @@ Have been worked with all modern frameworks (React, Angular, Vue), and not only 
 And from my experience React probably is the most comfortable for both - developers and business. So I prefer to work with this stack.
 Like to write my JavaScript code with TypeScript. Most time using Redux as a state management library (with different middlewares).
 
-Used to lead small groups of engineers (of 2-5 people). Conducting courses/lectures for students (currently at KPI university).
+Used to lead small groups of engineers (of 2-5 people). Conducting courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
 
-Currently working on articles for my dev blog ([link](https://zaar88.dev)).
+Currently working on articles for my [dev blog](https://zaar88.dev).
 
 Curiousing in cloud technologies (AWS), doing some stuff with NodeJS (Nest).
 
