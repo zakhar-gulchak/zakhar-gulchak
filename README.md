@@ -4,6 +4,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=zaar88&color=blue)
 ![GitHub zaar88](https://img.shields.io/github/followers/zaar88?label=follow&style=social)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
 FullStack developer. 33 y.o.
 
