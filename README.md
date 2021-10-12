@@ -7,19 +7,20 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
 FullStack developer. 33 y.o.
-Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Playing vynils at home parties with friends.
+Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vynils at home parties with friends.
+Practice yoga over 10 years (physically, and mentally).
 
 Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
 Have been worked with all modern frameworks (React, Angular, Vue), and not only with modern but also with AngularJS, Backbone/Marionette, ExtJS too.
 
 And from my experience React probably is the most comfortable for both - developers and business. So I prefer to work with this stack.
-Like to write my JavaScript code with TypeScript. Most time using Redux as a state management library (with different middlewares).
+Like to write my JavaScript code with TypeScript. Most time use Redux as a state management library (with different middlewares).
 
-Used to lead small groups of engineers (of 2-5 people). Conducting courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
+Used to lead small groups of engineers (of 2-5 people). Conduct courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
 
 Currently working on articles for my [dev blog](https://zaar88.dev).
 
-Curiousing in cloud technologies (AWS), doing some stuff with NodeJS (Nest).
+Interested in cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 
 ### 📫 Contacts
