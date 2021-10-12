@@ -13,14 +13,14 @@ Practice yoga over 10 years (physically, and mentally).
 Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
 Have been worked with all modern frameworks (React, Angular, Vue), and not only with modern but also with AngularJS, Backbone/Marionette, ExtJS too.
 
-It looks to me that React is the most comfortable for both - developers and business. So prefer to work with this stack.
+Passionate about React tech stack. It looks to me that it's the most comfortable for both - for developers and business. Prefer to work with it.
 Also like to write JavaScript code with TypeScript. Most time using Redux as a state management library (with different middlewares).
 
 Used to lead small groups of engineers (of 2-5 people). Conduct courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
 
 Currently working on articles for my [dev blog](https://zaar88.dev).
 
-Interested in cloud technologies (AWS), do some stuff with NodeJS (Nest).
+Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 
 ### 📫 Contacts
