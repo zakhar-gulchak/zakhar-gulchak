@@ -7,7 +7,7 @@
 
 FullStack developer. 33 y.o.
 
-Work with JavaScript, TypeScript, NodeJS. Have experience with developing backend (PHP, NodeJS) and mobile (C#, React Native). But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
+Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
 Have been worked with all modern frameworks (React, Angular, Vue), and not only with modern but also with AngularJS, Backbone/Marionette, ExtJS too.
 
 And from my experience React probably is the most comfortable for both - developers and business. So I prefer to work with this stack.
