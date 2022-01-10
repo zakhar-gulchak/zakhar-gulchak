@@ -25,12 +25,9 @@ Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 ### 📫 Contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:gulchak.zakhar@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaar88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zaar88.dev)
-[![Telegram Group](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Ffrontenders_diary)](https://t.me/frontenders_diary)
 
 
 
