@@ -18,7 +18,7 @@ Also like to write JavaScript code with TypeScript. Most time using Redux as a s
 
 Used to lead small groups of engineers (of 2-5 people). Conduct courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
 
-Currently working on articles for my [dev blog](https://zaar88.dev).
+Currently working on articles for my dev blog [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white)](https://zaar88.dev)
 
 Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
@@ -27,7 +27,6 @@ Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zaar88.dev)
 
 
 
