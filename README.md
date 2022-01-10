@@ -30,8 +30,7 @@ Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 
 
-
-### If you are recriuter you can find my CV [online](https://zaar88.github.io/)
+[CV online](https://zaar88.github.io/)
 
 <!--
 - 🌱 I’m currently learning ...
