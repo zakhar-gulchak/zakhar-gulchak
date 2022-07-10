@@ -8,10 +8,10 @@
 
 FullStack developer. 33 y.o.
 Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vinyls at home parties with friends.
-Practice yoga over 10 years (physically, and mentally).
 
-Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. But last years most time have dedicated to UI development and frontend technologies, as it seems to be more interesting for me.
+Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. Previous years most time have dedicated to UI development and frontend technologies, as it seemed to be more interesting for me.
 Have been worked with all modern frameworks (React, Angular, Vue), and not only with modern but also with AngularJS, Backbone/Marionette, ExtJS too.
+And last year dedicated to work with the backend - built some backend with usage NestJS, Postrgers, and integrated with Kafka streams.
 
 Passionate about React tech stack. It looks to me that it's the most comfortable for both - for developers and business. Prefer to work with it.
 Also like to write JavaScript code with TypeScript. Most time using Redux as a state management library (with different middlewares).
@@ -22,7 +22,7 @@ Currently working on articles for my dev blog
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white)](https://zaar88.dev)
 
-Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
+Keen on cloud technologies (AWS), do some stuff with NodeJS (NestJS, Express).
 
 
 ### 📫 Contacts
@@ -31,7 +31,7 @@ Keen on cloud technologies (AWS), do some stuff with NodeJS (Nest).
 
 
 
-[CV online](https://zaar88.github.io/)
+[CV online](https://zakhar-gulchak.github.io/)
 
 <!--
 - 🌱 I’m currently learning ...
