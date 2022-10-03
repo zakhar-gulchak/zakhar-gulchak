@@ -1,5 +1,3 @@
-> Beauty is in the eye of the beholder.
-
 ### Hi there 👋
 
 ![profile views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue)
