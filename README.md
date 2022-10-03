@@ -6,7 +6,7 @@
 ![GitHub zakhar-gulchak](https://img.shields.io/github/followers/zakhar-gulchak?label=follow&style=social)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
-FullStack developer. 33 y.o.
+FullStack developer.
 Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vinyls at home parties with friends.
 
 Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. Previous years most time have dedicated to UI development and frontend technologies, as it seemed to be more interesting for me.
@@ -18,20 +18,14 @@ Also like to write JavaScript code with TypeScript. Most time using Redux as a s
 
 Used to lead small groups of engineers (of 2-5 people). Conduct courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
 
-Currently working on articles for my dev blog
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white)](https://zaar88.dev)
-
-Keen on cloud technologies (AWS), do some stuff with NodeJS (NestJS, Express).
+Keen on cloud technologies (AWS), do some stuff with NodeJS (NestJS).
 
 
 ### 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
-
-
-
-[CV online](https://zakhar-gulchak.github.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZakharGV)
 
 <!--
 - 🌱 I’m currently learning ...
