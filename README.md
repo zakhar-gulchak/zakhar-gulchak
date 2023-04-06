@@ -18,7 +18,7 @@ Have been worked with most of modern UI frameworks (React, Angular, Vue), also w
 like AngularJS, Backbone/Marionette, and ExtJS too.
 Last years have some experience with backend - have been developing microservices with NestJS,
 Postgres, Kafka streams,
-also GraphQL services with using Apollo, and Apollo Federation (v2).
+also GraphQL services with usage of Apollo, and Apollo Federation (v2).
 
 Passionate about React tech stack. Prefer to work with it.
 Prefer to use TypeScript over JavaScript as it seems to be more safe.
