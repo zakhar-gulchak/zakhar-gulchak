@@ -5,10 +5,10 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
 Software Engineer. Mentor. Lecturer.
-\Board-addicted. Love snowboarding, surfing, wakeboarding.
-\Have joy commuting on my longboard over the city.
 
-Love music, parties. Sometimes play from vinyls at home parties with friends.
+\ Board-addicted. Love snowboarding, surfing, wakeboarding.
+\ Have joy commuting on my longboard over the city.
+\ Love music, parties. Sometimes play from vinyls at home parties with friends.
 
 Used to work on UI stuff with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
 Have been worked with most of modern UI frameworks (React, Angular, Vue), also with older ones like AngularJS, Backbone/Marionette, and ExtJS too.
