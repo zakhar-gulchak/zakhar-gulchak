@@ -6,15 +6,16 @@
 
 Software Engineer. Mentor. Lecturer.
 
-\
 Board-addicted. Love snowboarding, surfing, wakeboarding.
-\
 Have joy commuting on my longboard over the city.
-\
 Love music, parties. Sometimes play from vinyls at home parties with friends.
 
-Used to work on UI stuff with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
+Used to work on UI stuff with JavaScript, TypeScript, NodeJS.
+/
+Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
+/
 Have been worked with most of modern UI frameworks (React, Angular, Vue), also with older ones like AngularJS, Backbone/Marionette, and ExtJS too.
+/
 Last years have some experience with backend - have been developing microservices with NestJS, Postgres, Kafka streams,
 also GraphQL services with using Apollo, and Apollo Federation (v2).
 
