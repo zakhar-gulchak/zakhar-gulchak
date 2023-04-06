@@ -5,7 +5,10 @@ Software Engineer. Mentor. Lecturer.
 ![GitHub zakhar-gulchak](https://img.shields.io/github/followers/zakhar-gulchak?label=follow&style=social)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
-
+34 y.o.
+\
+Based in Berlin.
+\
 Board-addicted. Love snowboarding, surfing, wakeboarding.
 \
 Have joy commuting on my longboard over the city.
