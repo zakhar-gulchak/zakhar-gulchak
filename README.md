@@ -32,6 +32,7 @@ Prefer to use TypeScript over JavaScript as it seems to be more safe.
 For a long time used to work with Redux as a state management (with different middlewares). 
 \
 But like an idea of client libraries with cache (Apollo Client, React Query, ...),
+\
 and also an idea of fine-grained atomic reactive state (SolidJS).
 
 Used to lead small groups of engineers (of 2-5 people).
