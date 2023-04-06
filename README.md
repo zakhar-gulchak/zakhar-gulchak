@@ -29,7 +29,7 @@ and also an idea of fine-grained atomic reactive state (SolidJS).
 
 Used to lead small groups of engineers (of 2-5 people).
 \
-Conducting courses/lectures for students from time to time.
+Conduct courses/lectures for students from time to time.
 
 Keen on cloud technologies, microservices architecture (frontend, backend).
 
