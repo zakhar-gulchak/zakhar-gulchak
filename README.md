@@ -1,4 +1,5 @@
-### Zakhar Gulchak - Software Engineer. Mentor. Lecturer.
+### Zakhar Gulchak
+### Software Engineer. Mentor. Lecturer.
 
 ![profile views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue)
 ![GitHub zakhar-gulchak](https://img.shields.io/github/followers/zakhar-gulchak?label=follow&style=social)
