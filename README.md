@@ -4,20 +4,27 @@
 ![GitHub zakhar-gulchak](https://img.shields.io/github/followers/zakhar-gulchak?label=follow&style=social)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
-FullStack developer.
-Board-addicted. Love snowboarding, surfing, wakeboarding. Have joy commuting with my longboard over the city. Play vinyls at home parties with friends.
+Software Engineer. Mentor. Lecturer.
 
-Work with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development. Previous years most time have dedicated to UI development and frontend technologies, as it seemed to be more interesting for me.
-Have been worked with all modern frameworks (React, Angular, Vue), and not only with modern but also with AngularJS, Backbone/Marionette, ExtJS too.
-And last year dedicated to work with the backend - built some backend with usage NestJS, Postrgers, and integrated with Kafka streams.
+Board-addicted. Love snowboarding, surfing, wakeboarding.
+Have joy commuting on my longboard over the city.
+Love music, parties. Sometimes playing from vinyls at home parties with friends.
 
-Passionate about React tech stack. It looks to me that it's the most comfortable for both - for developers and business. Prefer to work with it.
-Also like to write JavaScript code with TypeScript. Most time using Redux as a state management library (with different middlewares).
+Used to work on UI stuff with JavaScript, TypeScript, NodeJS. Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
+Have been worked with most of modern frameworks (React, Angular, Vue), also with older ones like AngularJS, Backbone/Marionette, and ExtJS too.
+Last years have some experience with backend - have been developing microservices with NestJS, Postgres, Kafka streams,
+also GraphQL services with using Apollo, and Apollo Federation (v2).
 
-Used to lead small groups of engineers (of 2-5 people). Conduct courses/lectures for students (currently at [KPI university](https://kpi.ua/en)).
+Passionate about React tech stack. Prefer to work with it.
+Prefer to use TypeScript over JavaScript as it seems to be more safe.
+For a long time used to work with Redux as a state management (with different middlewares). 
+But like an idea of client libraries with cache (Apollo Client, React Query, ...),
+and also an idea of fine-grained atomic reactive state (SolidJS).
 
+Used to lead small groups of engineers (of 2-5 people).
+Conducting courses/lectures for students from time to time.
 
-Keen on cloud technologies (AWS), do some stuff with NodeJS (NestJS).
+Keen on cloud technologies, microservices architecture (frontend, backend).
 
 
 ### 📫 Contacts
