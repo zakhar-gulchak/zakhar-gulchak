@@ -13,26 +13,17 @@ Have joy commuting on my longboard over the city.
 Love music, parties. Sometimes play from vinyls at home parties with friends.
 
 Used to work on UI stuff with JavaScript, TypeScript, NodeJS.
-\
 Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
-\
 Have been worked with most of modern UI frameworks (React, Angular, Vue), also with older ones
-\
 like AngularJS, Backbone/Marionette, and ExtJS too.
-\
 Last years have some experience with backend - have been developing microservices with NestJS,
-\
 Postgres, Kafka streams,
 also GraphQL services with using Apollo, and Apollo Federation (v2).
 
 Passionate about React tech stack. Prefer to work with it.
-\
 Prefer to use TypeScript over JavaScript as it seems to be more safe.
-\
 For a long time used to work with Redux as a state management (with different middlewares). 
-\
 But like an idea of client libraries with cache (Apollo Client, React Query, ...),
-\
 and also an idea of fine-grained atomic reactive state (SolidJS).
 
 Used to lead small groups of engineers (of 2-5 people).
