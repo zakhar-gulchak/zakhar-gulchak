@@ -20,7 +20,7 @@ Last years have some experience with backend - have been developing microservice
 Postgres, Kafka streams,
 also GraphQL services with usage of Apollo, and Apollo Federation (v2).
 
-Passionate about React tech stack. Prefer to work with it.
+Passionate about React tech stack, prefer to work with it.
 Prefer to use TypeScript over JavaScript as it seems to be more safe.
 For a long time used to work with Redux as a state management (with different middlewares). 
 But like an idea of client libraries with cache (Apollo Client, React Query, ...),
