@@ -7,7 +7,9 @@
 Software Engineer. Mentor. Lecturer.
 
 Board-addicted. Love snowboarding, surfing, wakeboarding.
+/
 Have joy commuting on my longboard over the city.
+/
 Love music, parties. Sometimes play from vinyls at home parties with friends.
 
 Used to work on UI stuff with JavaScript, TypeScript, NodeJS.
