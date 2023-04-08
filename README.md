@@ -1,4 +1,4 @@
-### Zakhar Gulchak
+### Bio
 Software Engineer. Mentor. Lecturer.
 
 ![profile views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue)
