@@ -3,14 +3,6 @@ Software Engineer. Mentor. Lecturer.
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
-34 y.o. Based in Berlin. Ukrainian.
-\
-Board-addicted. Love snowboarding, surfing, wakeboarding.
-\
-Have joy commuting on my longboard over the city.
-\
-Love music, parties. Sometimes play from vinyls at home parties with friends.
-
 Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
 Have experience in the backend (PHP, NodeJS) and mobile (C#, React Native) development.
 Have worked with most of the modern UI frameworks (React, Angular, Vue),
@@ -26,6 +18,13 @@ Used to lead small groups of engineers (of 2-5 people).
 Conduct courses/lectures for students from time to time.
 
 Keen on cloud technologies, microservices architecture (frontend, backend).
+
+
+Board-addicted. Love snowboarding, surfing, wakeboarding.
+\
+Have joy commuting on my longboard over the city.
+\
+Love music, parties. Sometimes play from vinyls at home parties with friends.
 
 
 ### 📫 Contacts
