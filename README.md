@@ -1,8 +1,6 @@
 ### Bio
 Software Engineer. Mentor. Lecturer.
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=flat)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
-
 Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
 Have experience in the backend (PHP, NodeJS) and mobile (C#, React Native) development.
 Have worked with most of the modern UI frameworks (React, Angular, Vue),
@@ -31,6 +29,7 @@ Love music, parties. Sometimes play from vinyls at home parties with friends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZakharGV)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=for-the-badge)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 
 <!--
 - 🌱 I’m currently learning ...
