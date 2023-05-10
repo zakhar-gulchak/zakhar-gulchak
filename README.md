@@ -18,13 +18,6 @@ Conduct courses/lectures for students from time to time.
 Keen on cloud technologies, microservices architecture (frontend, backend).
 
 
-Board-addicted. Love snowboarding, surfing, wakeboarding.
-\
-Have joy commuting on my longboard over the city.
-\
-Love music, parties. Sometimes play from vinyls at home parties with friends.
-
-
 ### 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
