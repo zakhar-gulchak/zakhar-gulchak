@@ -1,5 +1,6 @@
 ### Bio
-Software Engineer. Mentor. Lecturer.
+Software Engineer. Mentor.
+ex-Lecturer@KPIUniversity
 
 Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
 Have experience in the backend (PHP, NodeJS) and mobile (C#, React Native) development.
