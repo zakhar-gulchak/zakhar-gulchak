@@ -3,7 +3,7 @@ Software Engineer. Mentor.
 ex-Lecturer@KPIUniversity
 
 Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
-Have experience in the backend (PHP, NodeJS) and mobile (C#, React Native) development.
+Have experience in backend (PHP, NodeJS) and mobile (C#, React Native) development.
 Have worked with most of the modern UI frameworks (React, Angular, Vue),
 and also with older ones like AngularJS, Backbone/Marionette,
 and ExtJS too.
@@ -16,7 +16,7 @@ Used to lead small groups of engineers (of 2-5 people).
 \
 Conduct courses/lectures for students from time to time.
 
-Keen on cloud technologies, microservices architecture (frontend, backend).
+Keen on cloud technologies, and microservices architecture (frontend, backend).
 
 
 ### 📫 Contacts
