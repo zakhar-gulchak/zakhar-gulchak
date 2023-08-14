@@ -17,6 +17,12 @@ Conduct courses/lectures for students from time to time.
 
 Keen on cloud technologies, and microservices architecture (frontend, backend).
 
+### Test projects
+
+# https://github.com/zakhar-gulchak/angular-test-task
+# https://github.com/zakhar-gulchak/nuxt-test-task
+
+
 
 ### 📫 Contacts
 
