@@ -1,4 +1,4 @@
-### Bio
+## Bio
 Software Engineer. Mentor. Lecturer.
 
 Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
@@ -17,14 +17,14 @@ Conduct courses/lectures for students from time to time.
 
 Keen on cloud technologies, and microservices architecture (frontend, backend).
 
-### Test projects
+## Test projects
 
-# https://github.com/zakhar-gulchak/angular-test-task
-# https://github.com/zakhar-gulchak/nuxt-test-task
+### https://github.com/zakhar-gulchak/angular-test-task
+### https://github.com/zakhar-gulchak/nuxt-test-task
 
 
 
-### 📫 Contacts
+## 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frontenders_diary)
