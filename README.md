@@ -30,7 +30,7 @@ Keen on cloud technologies, and microservices architecture (frontend, backend).
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frontenders_diary)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3659811?color=rgb%28244%2C%20130%2C%2037%29&label=StackOverflow&style=for-the-badge)](https://stackoverflow.com/users/3659811/zakhar-gulchak)
 [![CV](https://img.shields.io/badge/CV-blue)](CV%20Zakhar%20Gulchak.pdf)
-![CV](https://img.shields.io/badge/CV-blue?link=CV%20Zakhar%20Gulchak.pdf)
+![CV](https://img.shields.io/badge/CV-blue??style=for-the-badge&link=CV%20Zakhar%20Gulchak.pdf)
 
 
 <!--
