@@ -19,8 +19,9 @@ Keen on cloud technologies, and microservices architecture (frontend, backend).
 
 # Test projects
 
-### [Angular Test task](https://angular-test-task-eight.vercel.app/)
-### [Nuxt Test Task](nuxt-ff-test-task.netlify.app)
+### [Angular 16 Test task](https://angular-test-task-eight.vercel.app/)
+### [Nuxt2 Test Task](nuxt-ff-test-task.netlify.app)
+### [NextJS Test Task](roommate-ui.vercel.app)
 
 
 
