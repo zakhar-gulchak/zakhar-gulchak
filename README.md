@@ -19,10 +19,9 @@ Keen on cloud technologies, and microservices architecture (frontend, backend).
 
 # Test projects
 
-### [Angular 16 Test task](https://angular-test-task-eight.vercel.app/)
-### [Nuxt2 Test Task](nuxt-ff-test-task.netlify.app)
-### [NextJS Test Task](roommate-ui.vercel.app)
-
+### [Angular Project](https://github.com/zakhar-gulchak/angular-test-task)
+### [Nuxt2 Project](https://github.com/zakhar-gulchak/nuxt-js-task)
+### [NextJS Project](https://github.com/zakhar-gulchak/roommate-ui)
 
 
 # 📫 Contacts
