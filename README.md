@@ -20,7 +20,7 @@ Keen on cloud technologies, and microservices architecture (frontend, backend).
 # Test projects
 
 ### [Angular Test task](https://angular-test-task-eight.vercel.app/)
-### https://github.com/zakhar-gulchak/nuxt-test-task
+### [Nuxt Test Task](nuxt-ff-test-task.netlify.app)
 
 
 
