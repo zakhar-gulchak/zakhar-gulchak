@@ -12,7 +12,7 @@ Passionate about React tech stack, and prefer to work with it. Prefer to use Typ
 and also an idea of fine-grained atomic reactive state (SolidJS).
 
 Conduct courses/lectures for students from time to time.
-/
+\
 Keen on cloud technologies, and microservices architecture (frontend, backend).
 
 
