@@ -1,19 +1,12 @@
 # Bio
-Software Engineer. Mentor. Lecturer.
+Senior FullStack Engineer | Mentor | Lecturer
 
-Used to work on UI stuff with JavaScript, TypeScript, and NodeJS.
-Have experience in the backend (PHP, NodeJS) and mobile (C#, React Native) development.
-Have worked with most of the modern UI frameworks (React, Angular, Vue),
-and also with older ones like AngularJS, Backbone/Marionette,
-and ExtJS too.
-In recent years had some experience with the backend - have been developing microservices with NestJS, Postgres, Kafka streams, also GraphQL services with usage of Apollo, and Apollo Federation (v2).
+Experienced in building scalable frontend and backend systems using React, TypeScript, and Node.js. Worked with modern UI frameworks (React, Angular, Vue) and legacy ones (AngularJS, Backbone, ExtJS). In recent years focused on backend with NestJS, PostgreSQL, Kafka, and GraphQL (Apollo, Federation v2).
 
-Passionate about React tech stack, and prefer to work with it. I prefer to use TypeScript over JavaScript as it seems to be safer. For a long time used to work with Redux as state management (with different middlewares). But like an idea of client libraries with cache (Apollo Client, React Query, ...),
-and also an idea of fine-grained atomic reactive state (SolidJS).
+Passionate about React ecosystem and DX. Prefer TypeScript for its safety and developer experience. Familiar with Redux, React Query, Apollo Client, and SolidJS concepts of fine-grained reactivity.
 
-Conduct courses/lectures for students.
-\
-Keen on AI (Computer Vision). :)
+Mentor and lecturer for aspiring developers. Enjoy building clean, testable code and helping teams grow.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
 
