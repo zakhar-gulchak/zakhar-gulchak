@@ -5,7 +5,7 @@ Experienced in building scalable frontend and backend systems using React, TypeS
 
 Passionate about React ecosystem and DX. Prefer TypeScript for its safety and developer experience. Familiar with Redux, React Query, Apollo Client, and SolidJS concepts of fine-grained reactivity.
 
-Mentor for aspiring developers. Lecturer at KNPU. Enjoy building clean, testable code and helping teams grow.
+Mentor for aspiring developers. Ex-Lecturer at KNPU. Enjoy building clean, testable code and helping teams grow.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
