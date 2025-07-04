@@ -6,7 +6,7 @@ Experienced in building scalable backend systems with Go, PostgreSQL, Redis, Doc
 Previously focused on frontend and DX (React, TypeScript, GraphQL, Federation), and still bring that polish to UI-heavy projects.
 Mentor, ex-lecturer at Kyiv Polytechnic, and obsessed with clean architecture, automation, and system design.
 
-🛠 Current stack: Go · React Native · Supabase · Postgres · Redis · Fly.io · OpenAI · AWS · CI/CD
+🛠 Current stack: Go · React Native · Swift · NodeJS · Supabase · Postgres · Redis · Fly.io · OpenAI · AWS · CI/CD
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
