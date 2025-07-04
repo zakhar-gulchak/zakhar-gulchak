@@ -1,11 +1,12 @@
 # Bio
-Senior FullStack Engineer
+👨‍💻 Senior Fullstack Engineer | Go · React Native · AWS · Supabase
 
-Experienced in building scalable frontend and backend systems using React, TypeScript, and Node.js. Worked with modern UI frameworks (React, Angular, Vue) and legacy ones (AngularJS, Backbone, ExtJS). In recent years focused on backend with NestJS, PostgreSQL, Kafka, and GraphQL (Apollo, Federation v2).
+Experienced in building scalable backend systems with Go, PostgreSQL, Redis, Docker, and cloud-native architecture (AWS, Fly.io). I also develop full-featured mobile apps using React Native and Supabase, and integrate AI/LLM tools like OpenAI API and Langchain.
 
-Passionate about React ecosystem and DX. Prefer TypeScript for its safety and developer experience. Familiar with Redux, React Query, Apollo Client, and SolidJS concepts of fine-grained reactivity.
+Previously focused on frontend and DX (React, TypeScript, GraphQL, Federation), and still bring that polish to UI-heavy projects.
+Mentor, ex-lecturer at Kyiv Polytechnic, and obsessed with clean architecture, automation, and system design.
 
-Mentor for aspiring developers. Ex-Lecturer at KNPU. Enjoy building clean, testable code and helping teams grow.
+🛠 Current stack: Go · React Native · Supabase · Postgres · Redis · Fly.io · OpenAI · AWS · CI/CD
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
