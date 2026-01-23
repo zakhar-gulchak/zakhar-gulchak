@@ -9,7 +9,7 @@ Mentor, ex-lecturer at Kyiv Polytechnic, and obsessed with clean architecture, a
 🛠 Current stack: Go · React Native · Swift · NodeJS · Supabase · Postgres · Redis · Fly.io · OpenAI · AWS · CI/CD
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulchak-zakhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakhar-gg)
 
 <!--
 - 🌱 I’m currently learning ...
