@@ -11,11 +11,10 @@ Proven at both team delivery and solo end-to-end execution — I've led frontend
 Currently growing Go skills (certified, building with gRPC) and preparing for AWS Solutions Architect certification.
 Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 
-## 🚀 My Own Recent Projects
+## 🚀 My Projects
 
 - **[etymap.wiki](https://etymap.wiki)** — Interactive cognate word map across languages (Hono · SQLite · LiteStream · fly.io)
 - **LinguaDeck** — Translator mobile app, near App Store & Play Store release (Expo · React Native · Supabase · PostgreSQL · Deno)
-- **Telegram e-commerce bot** — Full production service shipped solo in 1 month (Python · FastAPI · aiogram · SQLite · LiteStream · fly.io)
 
 ## 🛠 Stack
 
