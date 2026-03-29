@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue&style=flat-square)
+
 # Bio
 
 👨‍💻 Senior Full-Stack Engineer | 15 yrs | React · Node.js · Python · React Native · Go
@@ -26,5 +28,3 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakhar-gg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakhar-gulchak)
-
-[![Profile Views](https://hits.dwyl.com/zakhar-gulchak/zakhar-gulchak.svg?style=flat-square&show=unique)](https://hits.dwyl.com/zakhar-gulchak/zakhar-gulchak)
