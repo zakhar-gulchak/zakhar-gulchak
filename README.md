@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue&style=flat-square)
+
 # Bio
 
 👨‍💻 Senior Full-Stack Engineer | 15 yrs | React · Node.js · Python · React Native · Go
