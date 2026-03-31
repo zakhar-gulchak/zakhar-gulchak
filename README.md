@@ -1,6 +1,6 @@
 # Bio
 
-👨‍💻 Senior Full-Stack Engineer | 15 yrs | React · Node.js · Python · React Native · Go
+👨‍💻 Senior Full-Stack Engineer | 15 yrs | React · Node.js · Python · React Native
 
 Senior Full-Stack Engineer with 15 years building high-performance web and mobile applications across e-commerce, healthtech, fintech, and adtech. Core stack: React (8+ yrs), TypeScript, Node.js (6+ yrs), Python (FastAPI — production project shipped), and React Native (Expo).
 
