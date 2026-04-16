@@ -6,7 +6,7 @@ Senior Full-Stack Engineer with 15 years building high-performance web and mobil
 
 I actively integrate AI development tools (Claude Code and similar) into my workflow, gaining measurable speed and flexibility across prototyping, debugging, and delivery.
 
-Proven at both team delivery and solo end-to-end execution — I've led frontend teams, driven architecture decisions on monorepos and federated GraphQL, and independently shipped production services, mobile apps, and side projects. Infrastructure experience spans Docker, Kubernetes (production), AWS, GCP, Terraform, and cost-effective fly.io + SQLite + Litestream setups.
+Proven at both team delivery and solo end-to-end execution — I've driven architecture decisions on monorepos and federated GraphQL, and independently shipped production services, mobile apps, and side projects. Infrastructure experience spans Docker, Kubernetes (production), AWS, GCP, Terraform, and cost-effective fly.io + SQLite + Litestream setups.
 
 Currently preparing for AWS Solutions Architect certification.
 Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
