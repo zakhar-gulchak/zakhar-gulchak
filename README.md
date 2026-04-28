@@ -14,7 +14,7 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 ## 🚀 My Projects
 
 - **[etymap.wiki](https://etymap.wiki)** — Interactive cognate word map across languages (Hono · SQLite · LiteStream · fly.io)
-- **LinguaDeck** — Translator mobile app, near App Store & Play Store release (Expo · React Native · Supabase · PostgreSQL · Deno)
+- **[LinguaDeck](https://linguadeck.net)** — Translator mobile app ([App Store link](https://apps.apple.com/us/app/linguadeck/id6755066306) & [Play Store link](https://play.google.com/store/apps/details?id=com.swelltech.linguadeck)) (Expo · React Native · Supabase · PostgreSQL · Deno)
 
 ## 🛠 Stack
 
