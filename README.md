@@ -22,7 +22,7 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 **Backend:** Node.js, NestJS, Hono, Python (FastAPI, aiogram, SQLAlchemy), Go (gRPC), Kafka  
 **Databases:** PostgreSQL, SQLite (+ Litestream), Redis, MongoDB, Firebase/Firestore, Supabase  
 **DevOps:** Docker, Kubernetes, AWS, GCP, fly.io, Terraform, GitHub Actions  
-**AI/ML:** LangChain/LangSmith, Claude Code
+**AI/ML:** LangChain/LangSmith, LangFuse, pgvector, RAG, Claude Code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakhar-gg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakhar-gulchak)
