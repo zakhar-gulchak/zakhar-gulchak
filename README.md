@@ -18,8 +18,8 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 
 ## 🛠 Stack
 
-**Frontend:** React, TypeScript, React Native, Expo, GraphQL (Apollo Federation), TailwindCSS, D3.js  
-**Backend:** Node.js, NestJS, Hono, Python (FastAPI, aiogram, SQLAlchemy), Go (gRPC), Kafka  
+**Frontend:** React, TypeScript, React Native, TanStack Query, Expo, GraphQL (Apollo Federation), TailwindCSS, D3.js  
+**Backend:** Node.js, NestJS, Hono, Fastify, Python, FastAPI, Go (gRPC), Kafka  
 **Databases:** PostgreSQL, SQLite (+ Litestream), Redis, MongoDB, Firebase/Firestore, Supabase  
 **DevOps:** Docker, Kubernetes, AWS, GCP, fly.io, Terraform, GitHub Actions  
 **AI/ML:** LangChain/LangSmith, LangFuse, pgvector, RAG, Claude Code
