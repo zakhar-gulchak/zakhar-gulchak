@@ -26,6 +26,7 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakhar-gg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakhar-gulchak)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zakhar.g)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue&style=flat-square)
