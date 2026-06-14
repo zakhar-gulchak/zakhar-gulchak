@@ -16,6 +16,9 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 - **[etymap.wiki](https://etymap.wiki)** — Interactive cognate word map across languages (Hono · SQLite · LiteStream · fly.io)
 - **[LinguaDeck](https://linguadeck.net)** — Translate & Learn mobile app ([App Store](https://apps.apple.com/us/app/linguadeck/id6755066306), [Play Store](https://play.google.com/store/apps/details?id=com.swelltech.linguadeck)) (Expo · React Native · Supabase · PostgreSQL · Deno)
 
+If you want to support my activity
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zakhar.g)
+
 ## 🛠 Stack
 
 **Frontend:** React, TypeScript, React Native, TanStack Query, Expo, GraphQL (Apollo Federation), TailwindCSS, D3.js  
@@ -27,6 +30,5 @@ Former lecturer at Kyiv Polytechnic (3 course streams, 200+ students).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakhar-gg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakhar-gulchak)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zakhar.g)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zakhar-gulchak&color=blue&style=flat-square)
